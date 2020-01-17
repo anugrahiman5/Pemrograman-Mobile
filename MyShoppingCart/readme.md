@@ -1,0 +1,5 @@
+![ShopTambah](https://user-images.githubusercontent.com/44064496/72578944-34696500-390a-11ea-9011-d290f3c561f2.png)
+![ShopEditHapus](https://user-images.githubusercontent.com/44064496/72578945-3501fb80-390a-11ea-9fa8-8aebfd84b579.png)
+![ShopHome](https://user-images.githubusercontent.com/44064496/72578946-3501fb80-390a-11ea-9888-a8c8e5cf125c.png)
+![ShopLogin](https://user-images.githubusercontent.com/44064496/72578948-3501fb80-390a-11ea-9cdc-48b4c1765f15.png)
+![ShopRegister](https://user-images.githubusercontent.com/44064496/72578949-359a9200-390a-11ea-8721-223e754a03f7.png)
