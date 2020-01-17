@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607935638933",
+    "firebase_url": "https://daftarbelanja-fcd58.firebaseio.com",
+    "project_id": "daftarbelanja-fcd58",
+    "storage_bucket": "daftarbelanja-fcd58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607935638933:android:7cdcef110aeaa7a630da9c",
+        "android_client_info": {
+          "package_name": "com.anugrah.myshoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607935638933-hsia1i0llj33e38lj7vle41uoh6j53l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anugrah.myshoppingcart",
+            "certificate_hash": "fc934c60ab02a68ffcc7e37a934e886535772a0e"
+          }
+        },
+        {
+          "client_id": "607935638933-r16as8trotl7ig0no50pt3s70b4ofq7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMM_Xr5y8P6K0RQTCUs4KnTzgJlHm7DDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607935638933-r16as8trotl7ig0no50pt3s70b4ofq7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
